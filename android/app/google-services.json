@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409172478469",
+    "project_id": "testing-67819",
+    "storage_bucket": "testing-67819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409172478469:android:a4e7a83188d2f5e6a32a6c",
+        "android_client_info": {
+          "package_name": "com.example.tumbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409172478469-lj418p7an2l4b3a6qv8hnsvj92c9u5pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwU1YF9U6fRio8p8tE0kmFyEBCbiN9-Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409172478469-lj418p7an2l4b3a6qv8hnsvj92c9u5pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
